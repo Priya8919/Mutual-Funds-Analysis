@@ -27,7 +27,7 @@ A **Mutual Fund Plan** that includes:
 
 ---
 
-## 🚀 Extended Overview (Milestone 0)
+## 🚀 Extended Overview 
 
 ### 🧾 Data Collection & Cleaning  
 - Imported **NIFTY 50 closing prices** from `nifty50_closing_prices.csv`.  
